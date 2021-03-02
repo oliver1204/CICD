@@ -1,7 +1,0 @@
-.box {
-  height: 200px;
-  width: 200px;
-  border: 2px solid red;
-  box-sizing: content-box;
-  padding: 5px;
-}
